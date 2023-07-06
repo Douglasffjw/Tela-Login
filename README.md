@@ -1,6 +1,6 @@
 # 🕷️ Tela Login Venon
 
-![preview.png](./github/preview.png)
+![preview.png](./img/preview.png)
 
 
 > Feito para treinar minhas habilidades 
