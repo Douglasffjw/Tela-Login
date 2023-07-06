@@ -3,7 +3,7 @@
 ![preview.png](./img/preview.png)
 
 
-> Feito para treinar minhas habilidades 
+> login page básica feita pra treinar minhas habilidades.
 
 ## 🛠 Tecnologias
 
